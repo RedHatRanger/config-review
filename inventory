@@ -1,0 +1,2 @@
+[web]
+node1.lab.example.com ansible_user=rhel ansible_become=true
